@@ -12,6 +12,7 @@ function initHtmlEditor(){
 	$contents.summernote({
 		height: 300,
 		oninit : autoLoad,
-		onkeyup : autoSave
+        onkeyup:autoSave
 	});
 }
+

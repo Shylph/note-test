@@ -20,6 +20,7 @@ function loadLocalStorage(event){
 	setHtmlCode( window.localStorage.getItem(value) );
 }
 
+
 //-------------------------------------------------
 
 
