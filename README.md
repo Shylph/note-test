@@ -1,5 +1,2 @@
-mynote
-======
-
-간단한 로컬 메모장
-http://niceaji.github.io/mynote
+# 마이 노트
+* 실습용입니다 
